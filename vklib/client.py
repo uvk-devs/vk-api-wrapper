@@ -3,7 +3,7 @@ from . import Api
 
 class VK:
     oauth_api_base="https://oauth.vk.com/"
-    api_version=5.131
+    api_version=5.138
     access_token=None
     __id=-1
 
